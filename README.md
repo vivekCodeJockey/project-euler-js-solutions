@@ -13,11 +13,12 @@ I just added problem in top of the js
 
 vivek – vivekmanickam1992@gmail.com
 
+Ramesh Singer – rameshsinger93@gmail.com
 [https://github.com/rameshsinger/project-euler-js-solutions](https://github.com/rameshsinger/)
 
 ## Contributing
 you can add your problem and solutions
-1. Fork it (<https://github.com/vivekCodeJockey/project-euler-js-solutions/fork>)
+1. Fork it (<https://github.com/rameshsinger/project-euler-js-solutions/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
