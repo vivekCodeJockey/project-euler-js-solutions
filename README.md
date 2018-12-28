@@ -11,7 +11,7 @@ I just added problem in top of the js
 
 ## Meta
 
-Vivek M – vivekmanickam1992@gmail.com[https://github.com/vivekCodeJockey/project-euler-js-solutions/]
+Vivek M – vivekmanickam1992@gmail.com [https://github.com/vivekCodeJockey/project-euler-js-solutions](https://github.com/vivekCodeJockey/)
 
 Ramesh Singer – rameshsinger93@gmail.com
 [https://github.com/rameshsinger/project-euler-js-solutions](https://github.com/rameshsinger/)
